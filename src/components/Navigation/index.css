@@ -1,0 +1,15 @@
+.NavigationBar {
+    background: #40E0D0;
+    padding: .6em 0;
+    color: white;
+    margin: 0;
+}
+
+.NavigationLink {
+    font-size: 1rem;
+    font-weight: normal;
+    letter-spacing: -1px;
+    color: blueviolet;
+    text-decoration: none;
+    padding: 10px;
+}
